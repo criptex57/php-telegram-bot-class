@@ -17,6 +17,9 @@ Array ( [message_id] => 86 [from] => Array ( [id] => 5113795567 [is_bot] => [fir
 
 # sendImage($chatId, $imageUrl)
 
+# sendMessageToAll($text)
+send message to all subscribers
+
 
 
 
